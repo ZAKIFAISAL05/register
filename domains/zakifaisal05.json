@@ -1,0 +1,7 @@
+module.exports = {
+  github: 'ZAKIFAISAL05', // GitHub username kamu
+  cname: 'zakifaisal05.is-a.dev', // custom domain (wajib jika pakai Cloudflare atau hosting luar GitHub)
+  verify: {
+    cname: true
+  }
+};
